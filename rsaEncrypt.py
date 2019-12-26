@@ -1,9 +1,3 @@
-##########################
-#MADE BY TOOFI############
-#https://github.com/toofi#
-#python3.7 rsaEncrypt.py##
-##########################
-
 import math
 import random
 import time
