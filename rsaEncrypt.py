@@ -3,11 +3,10 @@ import random
 import time
 import sys
 
-toolbar_width = 40
+toolbar_width = 80
 
-minPrime = 100
+minPrime = 10
 maxPrime = 1000
-
 
 message = int
 d = 0.1
